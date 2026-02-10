@@ -4,3 +4,6 @@ What went wrong: The game could sometimes be confusing for players, especially a
 
 
 What I Would Do With More Time I would expand the word bank and add more categories or even use an external file for words. I could improve the interface with colors to make it more visually appealing. Adding a scoring system or hints could make the game more engaging and challenging. These changes would make the game more fun and interactive for players.
+
+
+I used unit testing in my Hangman code to make sure each function works correctly. For example, I checked that the game starts with the right number of lives, that the blank spaces match the word, and that the game_over function works properly. If I wanted to use documentation testing, I could add examples in the function descriptions and use Python’s doctest to make sure the examples are correct. Unit testing is best for finding bugs in the code, while documentation testing is best for making sure examples and instructions are clear and accurate.
